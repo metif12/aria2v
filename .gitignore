@@ -1,0 +1,16 @@
+# V build outputs
+*.exe
+/v/
+
+# V's cache
+.cache/
+
+# A live engine writes here during the smoke test
+/smoke/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+desktop.ini
